@@ -18,7 +18,7 @@ AutoCut is an end-to-end framework for intelligent advertisement video editing b
 **CVPR 2026**
 *Milton Zhou, Sizhong Qin, Yongzhi Li, Quan Chen, Peng Jiang*
 
-[Paper](https://arxiv.org/pdf/2603.28366) | [Code](https://github.com/yourusername/autocut)
+[Paper](https://arxiv.org/pdf/2603.28366) | [Code](https://github.com/AdAutoCut/Autocut/)
 
 ### Deployment
 
